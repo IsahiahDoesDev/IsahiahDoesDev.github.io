@@ -25,7 +25,7 @@ These are select full-stack projects open-sourced for demonstration. You can vie
 I am currently documenting my journey building **1,000 unique applications** on YouTube.
 
 *   📺 **Watch the Journey:** [YouTube Channel](https://www.youtube.com/@IsahiahDoesDev)
-*   🔐 **Master Archive:** Looking for the other 990+ projects? The complete source code library is available to supporters. [Get Access Here](www.buymeacoffee.com/IsahiahDoesDev).
+*   🔐 **Master Archive:** Looking for the other 990+ projects? The complete source code library is available to supporters. [Get Access Here](https://www.buymeacoffee.com/IsahiahDoesDev).
 
 ## 🛠 Tech Stack
 *   **Languages:** JavaScript (ES6+), Python, HTML5, CSS3, SQL
