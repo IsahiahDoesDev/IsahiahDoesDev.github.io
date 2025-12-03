@@ -36,7 +36,3 @@ I am currently documenting my journey building **1,000 unique applications** on 
 *   **Email:** [isahiah@isahiahdoesdev.com](mailto:isahiah@isahiahdoesdev.com)
 *   **YouTube:** [@IsahiahDoesDev](https://youtube.com/@IsahiahDoesDev)
 
-<!---
-Visitor Count Badge (Optional - adds a cool "views" counter)
--->
-![Visitor Count](https://profile-counter.glitch.me/IsahiahDoesDev/count.svg)
