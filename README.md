@@ -99,4 +99,4 @@ I document every step of this engineering journey.
 ---
 
 ### ⚖️ License
-© 2025 IsaiahDoesDev. All Rights Reserved.
+© 2025 IsahiahDoesDev. All Rights Reserved.
