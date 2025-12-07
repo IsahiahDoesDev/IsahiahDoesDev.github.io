@@ -47,7 +47,7 @@ These are the production-ready applications built to solve real business problem
 | 04 | **TicketSync** | *Real-time Chat* | WebSockets, Subscriptions | ⏳ |
 | 05 | **Portfolio AI** | *RAG Chatbot* | Vector Embeddings, AI Stream | ⏳ |
 
-*(See [The Bricks Repo](https://github.com/IsaiahDoesDev/Bricks) for the foundational learning projects).*
+*(See [The Bricks Repo](https://github.com/IsahiahDoesDev/Bricks) for the foundational learning projects).*
 
 ---
 
