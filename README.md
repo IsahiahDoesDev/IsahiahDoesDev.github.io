@@ -1,10 +1,17 @@
 # 🏛️ The Showcase: My Portfolio
 
- **“Do what you love and you will never work a day in your life.” - Confucius**
 
-Welcome to the source code of my personal portfolio and central hub. This is **Project #00** of  "The Collection".
+Welcome to the source code of my personal portfolio. This is **Project #00** of  "The Collection".
+
+
 
 🌐 **Live Demo:** [IsahiahDoesDev.com](https://isahiahdoesdev.com)
+
+---
+
+## 💭 The Philosophy
+
+I treat software engineering not just as a job, but as a craft. "The Collection" is an effort to curate my work with the same care and attention to detail that went into writing the code.
 
 ---
 
