@@ -1,29 +1,28 @@
-# 🏛️ The Showroom: IsaiahDoesDev Portfolio
+# 🏛️ The Showcase: My Portfolio
 
  **I think we should build things that WE think are cool.**
 
-Welcome to the source code of my personal portfolio and central hub. This is **Project #00** of the 100 Projects Challenge.
+Welcome to the source code of my personal portfolio and central hub. This is **Project #00** of "The Collection".
 
-This application is more than a resume; it is a **Showroom** designed to display the "Flagship" applications and the "Bricks" built during my journey to master full-stack systems engineering.
-
-🌐 **Live Demo:** [IsaiahDoesDev.com](https://isaiahdoesdev.com)
+🌐 **Live Demo:** [IsahiahDoesDev.com](https://isahiahdoesdev.com)
 
 ---
 
 ## 💎 The Vision
 
-I am transitioning from a background in warehouse logistics to software engineering. My goal is not just to "learn to code," but to build a body of work that proves engineering rigor.
+I am transitioning from a background in (insert non mentally stimulating career/job) to software engineering. My goal is not just to "learn to code," but to build a body of work that I can be proud of.
 
-**The Showroom** serves three purposes:
-1.  **The Collection:** A curated display of my "Flagship" SaaS applications (e.g., InventoryOS, TicketSync).
-2.  **The Bricks:** A carousel showcasing the foundational "Toy" apps built for skill acquisition.
-3.  **The AI Assistant:** A custom RAG-powered chatbot ("Portfolio AI") that answers questions about my resume and tech stack.
+**The Showcase** serves three purposes:
+1.  **The Collection:** A curated display of my more complex SaaS applications (e.g., InventoryOS, TicketSync).
+2.  **The Bricks:** A carousel showcasing the foundational "building block" apps built for skill acquisition.
+3.  **The AI Assistant:** A custom RAG-powered chatbot ("Portfolio AI") that answers questions about my resume and tech stack. (Coming Soon)
+4.  **The Thrill:** I think it's cool. I see programming as an art form and outlet for creativity.
 
 ---
 
 ## 🏗️ Architecture & Tech Stack
 
-This project is built on the **"Elite" Serverless Stack**, designed for performance, scale, and type safety.
+This project is designed for performance, scale, and type safety.
 
 | Layer | Technology |
 | :--- | :--- |
@@ -36,9 +35,9 @@ This project is built on the **"Elite" Serverless Stack**, designed for performa
 
 ---
 
-## 📂 The Collection (Flagship Index)
+## 📂 The Collection (Index)
 
-These are the "Ferraris" in the showroom—production-ready applications built to solve real business problems.
+These are the production-ready applications built to solve real business problems.
 
 | # | Project Name | Type | Tech Focus | Status |
 |:-:|:---|:---|:---|:---:|
@@ -54,10 +53,9 @@ These are the "Ferraris" in the showroom—production-ready applications built t
 
 ## ⚡ Features & Engineering Highlights
 
-*   **Dark Mode UI:** A custom "Cyberpunk/High-End" aesthetic designed from scratch.
+*   **Dark Mode UI:** A custom "Cyberpunk/High-End" aesthetic.
 *   **Performance:** optimized images, font loading, and server-side rendering (SSR) for SEO.
 *   **Systems Integration:** Fetches data dynamically from Supabase to render project cards.
-*   **Video Integration:** Embedded YouTube Shorts/Reels for "Watch Me Build" content.
 
 ---
 
@@ -91,11 +89,11 @@ To inspect the showroom locally:
 
 ---
 
-## 📹 Connect & Watch
+## 📹 Watch me build (and break)
 
 I document every step of this engineering journey.
 
-*   **YouTube:** [IsaiahDoesDev](https://youtube.com/@IsahiahDoesDev) (Long-form Architecture)
+*   **YouTube:** [IsahiahDoesDev](https://youtube.com/@IsahiahDoesDev) 
 *   **Socials:** [Twitter/X](https://twitter.com/IsahiahDoesDev) | [Instagram](https://instagram.com/IsahiahDoesDev)
 
 ---
