@@ -10,7 +10,7 @@ Welcome to the source code of my personal portfolio and central hub. This is **P
 
 ## 💎 The Vision
 
-I am transitioning from a background in (insert non mentally stimulating career/job) to software engineering. My goal is not just to "learn to code," but to build a body of work that I can be proud of.
+I'm transitioning from a background in (insert non mentally stimulating career/job) to software engineering. My goal is not just to "learn to code," but to build a body of work that I can be proud of.
 
 **The Showcase** serves three purposes:
 1.  **The Collection:** A curated display of my more complex SaaS applications (e.g., InventoryOS, TicketSync).
