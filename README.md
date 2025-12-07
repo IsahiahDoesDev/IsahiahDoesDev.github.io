@@ -2,7 +2,7 @@
 
  **I think we should build things that WE think are cool.**
 
-Welcome to the source code of my personal portfolio and central hub. This is **Project #00** of "The Collection".
+Welcome to the source code of my personal portfolio and central hub. This is **Project #00** of  "The Collection".
 
 🌐 **Live Demo:** [IsahiahDoesDev.com](https://isahiahdoesdev.com)
 
