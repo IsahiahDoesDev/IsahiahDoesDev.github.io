@@ -1,6 +1,6 @@
 # 🏛️ The Showroom: IsaiahDoesDev Portfolio
 
-> **"From Warehouse to Systems Engineer. The Magnum Opus."**
+ **"From Warehouse to Systems Engineer. The Magnum Opus."**
 
 Welcome to the source code of my personal portfolio and central hub. This is **Project #00** of the 100 Projects Challenge.
 
