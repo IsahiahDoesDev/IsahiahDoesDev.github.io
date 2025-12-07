@@ -1,6 +1,6 @@
 # 🏛️ The Showcase: My Portfolio
 
- **I think we should build things that WE think are cool.**
+ **“Do what you love and you will never work a day in your life.” - Confucius**
 
 Welcome to the source code of my personal portfolio and central hub. This is **Project #00** of  "The Collection".
 
