@@ -16,7 +16,7 @@ I am transitioning from a background in (insert non mentally stimulating career/
 1.  **The Collection:** A curated display of my more complex SaaS applications (e.g., InventoryOS, TicketSync).
 2.  **The Bricks:** A carousel showcasing the foundational "building block" apps built for skill acquisition.
 3.  **The AI Assistant:** A custom RAG-powered chatbot ("Portfolio AI") that answers questions about my resume and tech stack. (Coming Soon)
-4.  **The Thrill:** I think it's cool. I see programming as an art form and outlet for creativity.
+4.  **The Thrill:** I think it's cool. I see programming as an art form and outlet for creativity. It provides enough difficulty and complexity to to keep the mind alive.
 
 ---
 
